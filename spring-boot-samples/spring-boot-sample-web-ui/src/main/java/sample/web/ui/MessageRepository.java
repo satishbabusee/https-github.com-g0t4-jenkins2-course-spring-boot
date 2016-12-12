@@ -20,7 +20,7 @@ public interface MessageRepository {
 
 	Iterable<Message> findAll();
 
-	Message click save(Message message);
+	Message clicksave(Message message);
 
 	Message findMessage(Long id);
 
