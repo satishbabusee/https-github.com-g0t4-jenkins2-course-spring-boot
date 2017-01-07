@@ -2,6 +2,7 @@
 :docs: http://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference
 i m new line
 i am one more line
+I am third line
 Spring Boot makes it easy to create Spring-powered, production-grade applications and
 services with absolute minimum fuss. It takes an opinionated view of the Spring platform
 so that new and existing users can quickly get to the bits they need.
